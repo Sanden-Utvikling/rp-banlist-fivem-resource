@@ -1,4 +1,6 @@
 # rp-banlist-fivem-resource
+NB! This resource is still under development, when first version is ready, you will see it under [realeases](https://github.com/Sanden-Utvikling/rp-banlist-fivem-resource/releases) on Github
+
 This resource automatically ads banned user to the rpbanlist.no system
 
 
