@@ -5,7 +5,7 @@ if Config.show then
     print("RP Banlist config loaded!")
 
     -- Add code to fetch current connected client
-    Config.print(Config.apikey)
+    -- Config.print(Config.apikey)
 end
 
 AddEventHandler('txAdmin:events:playerBanned', function(eventData)
