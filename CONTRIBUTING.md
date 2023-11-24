@@ -23,3 +23,17 @@ Not all checkpoints will be applicable for all issues/PRs, but checking of as ma
 When a PR is opened, a CI job will be run to verify that everything is linted properly.
 
 After the CI job is passed, a review will be done. A maintainer will merge the PR when all is good :thumbsup:
+
+## Set up development environment
+It is recommended to clone this into a test Fivem Server under the resources folder.
+
+After forking the repo to your own github account, do the following:
+```
+# Clone the repo
+git clone git@github.com:<yourgithubaccount>/rp-banlist-fivem-resource.git
+
+# Step into local repo
+cd rp-banlist-fivem-resource
+
+# Change your config in config.lua
+```
